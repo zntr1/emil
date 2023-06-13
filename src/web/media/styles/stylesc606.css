@@ -1,11 +1,11 @@
 @font-face {
   font-family: "AkkuratLLWeb-Bold";
-  src: url(http://www.esmh.de/web/media/fonts/AkkuratLLWeb-Bold.woff) format("woff");
+  src: url(/web/media/fonts/AkkuratLLWeb-Bold.woff) format("woff");
   font-display: swap;
 }
 @font-face {
   font-family: "AkkuratLLWeb-Bold";
-  src: url(http://www.esmh.de/web/media/fonts/AkkuratLLWeb-Bold.woff2) format("woff2");
+  src: url(/web/media/fonts/AkkuratLLWeb-Bold.woff) format("woff2");
   font-display: swap;
 }
 
