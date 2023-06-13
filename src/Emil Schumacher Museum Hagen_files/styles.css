@@ -1,22 +1,22 @@
 @font-face {
   font-family: "AkkuratLLWeb-Bold";
-  src: url(../fonts/AkkuratLLWeb-Bold.woff) format("woff");
+  src: url(./fonts/AkkuratLLWeb-Bold.woff) format("woff");
   font-display: swap;
 }
 @font-face {
   font-family: "AkkuratLLWeb-Bold";
-  src: url(../fonts/AkkuratLLWeb-Bold.woff2) format("woff2");
+  src: url(./fonts/AkkuratLLWeb-Bold.woff2) format("woff2");
   font-display: swap;
 }
 
 /*@font-face {
   font-family: "AkkuratLLSub-BoldSubset";
-  src: url(../fonts/AkkuratLLSub-BoldSubset.woff) format("woff");
+  src: url(./fonts/AkkuratLLSub-BoldSubset.woff) format("woff");
   font-display: swap;
 }
 @font-face {
   font-family: "AkkuratLLSub-BoldSubset";
-  src: url(../fonts/AkkuratLLSub-BoldSubset.woff2) format("woff2");
+  src: url(./fonts/AkkuratLLSub-BoldSubset.woff2) format("woff2");
   font-display: swap;
 }*/
 
